@@ -1,0 +1,13 @@
+
+
+COLUMNS:
+  RI: float
+  Na: float
+  Mg: float
+  Al: float
+  Si: float
+  K: float
+  Ca: float
+  Ba: float
+  Fe: float
+  Type: int
